@@ -1,30 +1,28 @@
 # Dominican Republic Retreat · March 8–14, 2027
 
-Responsive single-page retreat itinerary presented by Ember + Arrow Retreats and hosted by Tours Trips Treks & Travel.
+A responsive retreat landing page presented by Ember + Arrow Retreats and hosted by Tours Trips Treks & Travel.
+
+## Design
+- Header: supplied 4T logo treatment, Ember + Arrow presenter identity, desktop navigation.
+- Tropical hero, retreat highlights, paired accommodation cards, seven-day visual flow, full itinerary, activity photo gallery, and interactive Leaflet/OpenStreetMap location map.
+- Mobile: horizontal day-card strip and fixed four-item navigation (Days, Properties, Activities, Map).
+- Warm ivory, olive green, and golden accents inspired by the approved reference design.
 
 ## Files
 - index.html — page content and navigation
-- styles.css — responsive layout and visual styling
-- script.js — interactive Leaflet map
-- assets/ — reserved for approved brand assets and locally hosted images
+- styles.css — responsive design
+- script.js — Leaflet map
+- assets/4t-logo-approved.jpg — cropped logo from the supplied white-background 4T treatment
 
-## Preview locally
-Open index.html in a browser while connected to the internet. Google Fonts, Leaflet, map tiles, and photo URLs load externally.
+## Before public promotion
+- The website image/layout aims to follow the supplied visual reference. External images can change or be blocked; check them on desktop and mobile.
+- Waterfall photos should be checked against official location pages and usage rights before commercial use. Some beach and restaurant photos remain illustrative.
+- Club Hemingway is the intended Juan Dolio accommodation; confirm room/unit, dates, rates, and availability.
+- Casa Simba is a sample Las Terrenas option only; no reservation or room allocation is confirmed.
+- Confirm activity arrangements, venue names, meeting points, transfers, map pins, image permissions, and all prices with providers.
+- The dotted map line is a schematic itinerary sequence, not a road route or travel-time estimate.
 
-## Publish with GitHub Pages
-1. In the repository, open **Settings**.
-2. Open **Pages** in the left sidebar.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select branch **main** and folder **/(root)**, then save.
-5. After publishing, the expected site address is:
-   https://richardewber4.github.io/dominican-republic-retreat-2027/
+## GitHub Pages
+The repository uses `main` and root folder. GitHub Pages automatically deploys when commits reach the configured branch.
 
-## Before sharing with guests
-- Club Hemingway photos are linked from its official gallery; Casa Simba photos are linked from the Airbnb listing. Confirm image-use permissions before commercial promotion. Activity/restaurant photos should be replaced with verified location-specific images or clearly labeled as illustrative before the site is promoted.
-- Confirm restaurant names, operating status, activity arrangements, exact meeting points, transfers, and map pins with local providers.
-- Casa Simba is a sample accommodation only; no booking or room allocation is confirmed. Verify availability, price, capacity, amenities, and suitability with the host.
-- The map line is a schematic sequence, not a road route or travel-time estimate.
-- The current header uses an Ember + Arrow typographic wordmark and identifies Tours Trips Treks & Travel as host. Add the approved 4T logo artwork as a repository asset before final publication so the exact supplied logo treatment is used.
-- Connect www.4tdomrep.com after checking the GitHub Pages preview; configure the domain in GitHub Pages and at the domain provider.
-
-Footer wording is intentionally fixed to: “Experience created with Tours Trips Treks & Travel”. Ember + Arrow Retreats is the presenting/selling brand; Tours Trips Treks & Travel is the host organization.
+Footer wording: “Experience created with Tours Trips Treks & Travel”. Ember + Arrow Retreats is the presenting/selling brand; Tours Trips Treks & Travel is the host organization.
