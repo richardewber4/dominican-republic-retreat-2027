@@ -1,6 +1,6 @@
 # Dominican Republic Retreat · March 8–14, 2027
 
-Responsive single-page retreat itinerary for Tours Trips Treks & Travel.
+Responsive single-page retreat itinerary presented by Ember + Arrow Retreats and hosted by Tours Trips Treks & Travel.
 
 ## Files
 - index.html — page content and navigation
@@ -20,11 +20,11 @@ Open index.html in a browser while connected to the internet. Google Fonts, Leaf
    https://richardewber4.github.io/dominican-republic-retreat-2027/
 
 ## Before sharing with guests
-- Replace illustrative stock photos with approved retreat, activity, and property images. The current villa images are explicitly illustrative, not verified Casa Simba listing photos.
+- Club Hemingway photos are linked from its official gallery; Casa Simba photos are linked from the Airbnb listing. Confirm image-use permissions before commercial promotion. Activity/restaurant photos should be replaced with verified location-specific images or clearly labeled as illustrative before the site is promoted.
 - Confirm restaurant names, operating status, activity arrangements, exact meeting points, transfers, and map pins with local providers.
 - Casa Simba is a sample accommodation only; no booking or room allocation is confirmed. Verify availability, price, capacity, amenities, and suitability with the host.
 - The map line is a schematic sequence, not a road route or travel-time estimate.
-- Add the official company logo/brand assets once supplied.
+- The current header uses an Ember + Arrow typographic wordmark and identifies Tours Trips Treks & Travel as host. Add the approved 4T logo artwork as a repository asset before final publication so the exact supplied logo treatment is used.
 - Connect www.4tdomrep.com after checking the GitHub Pages preview; configure the domain in GitHub Pages and at the domain provider.
 
-Footer wording is intentionally fixed to: “Experience created with Tours Trips Treks & Travel”.
+Footer wording is intentionally fixed to: “Experience created with Tours Trips Treks & Travel”. Ember + Arrow Retreats is the presenting/selling brand; Tours Trips Treks & Travel is the host organization.
